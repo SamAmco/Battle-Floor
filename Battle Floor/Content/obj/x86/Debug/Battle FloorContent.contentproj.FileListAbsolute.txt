@@ -1,0 +1,4 @@
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\obj\x86\Debug\Audio\GameAudio.xml
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\obj\x86\Debug\Audio\GameAudio.xml

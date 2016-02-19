@@ -1,0 +1,2 @@
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\Content\obj\x86\Debug\Audio\GameAudio.xml

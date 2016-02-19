@@ -1,0 +1,500 @@
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\StandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.pdb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.pdb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Jump.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack2.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack3.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\ChargeAttack.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Shield.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireWall.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireBall.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Explosion.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\FireBallM.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\PowerBall.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Health.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Power.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\SpriteFont.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\ShieldM.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BasicEnemy.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\untitled.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BehindHit1.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\FrontHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MenuWash.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuScreen.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\GoldDust.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe.manifest
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.application
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe.manifest
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.application
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ResumeButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ExitButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Welcome.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\PowBallmes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireBallmes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Shieldmes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Expmes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level1.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level2.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level3.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level4.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level5.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level6.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level7.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Running.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\HitWall.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\TakeHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Dying.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DiveRoll.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Death.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ReplayButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Lives.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\StandMove.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Launch.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Rocket.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\PowerBack.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\HealthBack.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieBack.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieForward.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Explosion.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\CastBall.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Ball.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Shield.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\StandMove.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\ShieldM.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level8.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level10.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level9.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level11.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Blast.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\StandMove.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\CastBall.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Ball.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Shield.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\ShieldM.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Blast.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level12.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level13.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level14.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level15.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level16.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level17.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level18.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level19.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level20.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level21.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\StandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Arms.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Bullet.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\TakeHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\Arms.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\StandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\TakeHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level22.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level23.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level24.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level25.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level26.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level27.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level28.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level29.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level30.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level31.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level32.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level33.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level34.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level35.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level36.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level37.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level38.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level39.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level40.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level41.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level42.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level43.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level44.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level45.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level46.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level47.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level48.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level49.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level50.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level51.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level52.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level53.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level54.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level55.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level56.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level57.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level58.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level59.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level60.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level61.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level62.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level63.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level64.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level65.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level66.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level67.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level68.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level69.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level70.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level71.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireWallmes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\LoadButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\HandGun.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GJump.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GStandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDiveRoll.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Sights.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GFrontHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GBehindHit1.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\GunnerModemes.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDeath.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDiveRoll.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKFrontHit.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDeath.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\AK47.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKBehindHit1.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\Launcher.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDeath.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDiveRoll.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LBehindHit1.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LFrontHit.xnb
+C:\Documents and Settings\Samuel AC\Desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Arms.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\MageHat.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDiveRoll.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MJump.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDeath.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MStandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\IceMageHat.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDeath.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDiveRoll.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMJump.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMStandMoveLR.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\SaveButton.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Balloon.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Crate.xnb
+C:\Documents and Settings\Samuel AC\desktop\C#\my projects\XNA\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DeflectionMove.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.pdb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireWall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Explosion.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireBall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BasicEnemy.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\untitled.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MenuWash.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ResumeButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ExitButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Shieldmes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Expmes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuScreen.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level1.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level2.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level3.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level4.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level5.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level6.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level7.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\StandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack2.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack3.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\ChargeAttack.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\FireBallM.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\ShieldM.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BehindHit1.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\FrontHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Jump.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Running.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\HitWall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\TakeHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Welcome.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Dying.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Health.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Power.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Death.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ReplayButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Lives.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\StandMove.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Launch.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Rocket.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\PowerBack.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\HealthBack.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieBack.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieForward.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Explosion.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\StandMove.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\CastBall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Ball.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Shield.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Shield.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\ShieldM.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level8.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level10.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level9.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level11.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\GoldDust.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\PowerBall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Blast.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\StandMove.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\CastBall.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Ball.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Shield.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\ShieldM.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Blast.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level12.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level13.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level14.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level15.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level16.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level17.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level18.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level19.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level20.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level21.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\StandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Arms.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\TakeHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\Arms.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\StandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\TakeHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level22.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level23.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level24.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level25.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level26.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level27.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level28.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level29.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level30.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level31.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level32.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level33.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level34.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level35.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level36.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level37.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level38.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level39.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level40.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level41.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\LoadButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\HandGun.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GJump.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GStandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Sights.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Bullet.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GBehindHit1.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GFrontHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireBallmes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireWallmes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\PowBallmes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\GunnerModemes.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDeath.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKBehindHit1.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKFrontHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDeath.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\AK47.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\Launcher.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDeath.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LBehindHit1.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LFrontHit.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Arms.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\MageHat.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MJump.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDeath.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MStandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\IceMageHat.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDeath.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDiveRoll.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMJump.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMStandMoveLR.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\SaveButton.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Balloon.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Crate.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DeflectionMove.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\SpriteFont.xnb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe.manifest
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.application
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.pdb
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe.manifest
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.application
+C:\Users\SamAmco\Documents\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level42.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireWall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Explosion.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireBall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BasicEnemy.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\untitled.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MenuWash.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ResumeButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ExitButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Shieldmes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Expmes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuScreen.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level1.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level2.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level3.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level4.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level5.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level6.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level7.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\StandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack2.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack3.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\ChargeAttack.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\FireBallM.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\ShieldM.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BehindHit1.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\FrontHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Jump.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Running.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\HitWall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\TakeHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Welcome.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Dying.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Health.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Power.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Death.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ReplayButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Lives.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\StandMove.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Launch.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Rocket.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\PowerBack.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\HealthBack.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieBack.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieForward.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Explosion.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\StandMove.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\CastBall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Ball.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Shield.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Shield.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\ShieldM.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level8.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level10.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level9.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level11.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\GoldDust.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\PowerBall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Blast.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\StandMove.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\CastBall.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Ball.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Shield.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\ShieldM.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Blast.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level12.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level13.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level14.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level15.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level16.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level17.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level18.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level19.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level20.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level21.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\StandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Arms.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\TakeHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\Arms.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\StandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\TakeHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level22.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level23.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level24.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level25.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level26.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level27.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level28.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level29.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level30.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level31.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level32.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level33.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level34.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level35.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level36.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level37.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level38.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level39.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level40.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\LoadButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\HandGun.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GJump.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GStandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Sights.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Bullet.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GBehindHit1.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GFrontHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireBallmes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireWallmes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\PowBallmes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\GunnerModemes.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDeath.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKBehindHit1.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKFrontHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDeath.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\AK47.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\Launcher.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDeath.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LBehindHit1.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LFrontHit.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Arms.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\MageHat.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MJump.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDeath.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MStandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\IceMageHat.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDeath.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDiveRoll.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMJump.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMStandMoveLR.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\SaveButton.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Balloon.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Crate.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DeflectionMove.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level41.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level42.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\SpriteFont.xnb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\GameAudio.xgs
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Wave Bank.xwb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Audio\Sound Bank.xsb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe.manifest
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.application
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.exe
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Battle Floor.pdb
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe.manifest
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.application
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.exe
+C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\obj\x86\Debug\Battle Floor.pdb

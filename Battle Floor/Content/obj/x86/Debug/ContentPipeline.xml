@@ -1,0 +1,1342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Powers\FireWall.PNG</Source>
+      <Name>Powers\FireWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireWall.xnb</Output>
+      <Time>2009-08-29T22:57:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powers\Explosion.png</Source>
+      <Name>Powers\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Explosion.xnb</Output>
+      <Time>2009-09-05T21:44:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powers\FireBall.PNG</Source>
+      <Name>Powers\FireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\FireBall.xnb</Output>
+      <Time>2009-09-06T14:09:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\BasicEnemy.PNG</Source>
+      <Name>Enemies\BasicEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BasicEnemy.xnb</Output>
+      <Time>2009-10-04T12:32:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\untitled.bmp</Source>
+      <Name>MainCharacter\untitled</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\untitled.xnb</Output>
+      <Time>2009-10-03T18:36:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuWash.png</Source>
+      <Name>Menu\MenuWash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MenuWash.xnb</Output>
+      <Time>2009-10-06T19:36:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\ResumeButton.png</Source>
+      <Name>Menu\ResumeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ResumeButton.xnb</Output>
+      <Time>2010-01-09T11:04:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\ExitButton.png</Source>
+      <Name>Menu\ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ExitButton.xnb</Output>
+      <Time>2010-01-09T11:04:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\Shieldmes.png</Source>
+      <Name>Menu\Helpscreens\Shieldmes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Shieldmes.xnb</Output>
+      <Time>2010-02-13T15:06:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\Expmes.png</Source>
+      <Name>Menu\Helpscreens\Expmes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Expmes.xnb</Output>
+      <Time>2010-02-13T15:06:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenuScreen.png</Source>
+      <Name>Menu\MainMenuScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuScreen.xnb</Output>
+      <Time>2009-10-18T14:49:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenuButton.png</Source>
+      <Name>Menu\MainMenuButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\MainMenuButton.xnb</Output>
+      <Time>2010-01-09T11:04:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level1.png</Source>
+      <Name>Menu\Level's\Level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level1.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level2.png</Source>
+      <Name>Menu\Level's\Level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level2.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level3.png</Source>
+      <Name>Menu\Level's\Level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level3.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level4.png</Source>
+      <Name>Menu\Level's\Level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level4.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level5.png</Source>
+      <Name>Menu\Level's\Level5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level5.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level6.png</Source>
+      <Name>Menu\Level's\Level6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level6.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level7.png</Source>
+      <Name>Menu\Level's\Level7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level7.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\StandMoveLR.PNG</Source>
+      <Name>MainCharacter\StandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\StandMoveLR.xnb</Output>
+      <Time>2009-10-24T19:03:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\BasicAttack.PNG</Source>
+      <Name>MainCharacter\BasicAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack.xnb</Output>
+      <Time>2009-10-24T19:20:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\BasicAttack2.PNG</Source>
+      <Name>MainCharacter\BasicAttack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack2.xnb</Output>
+      <Time>2009-10-24T19:39:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\BasicAttack3.PNG</Source>
+      <Name>MainCharacter\BasicAttack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BasicAttack3.xnb</Output>
+      <Time>2009-10-24T19:45:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\ChargeAttack.PNG</Source>
+      <Name>MainCharacter\ChargeAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\ChargeAttack.xnb</Output>
+      <Time>2009-10-24T22:50:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\PowerMoves\FireBallM.PNG</Source>
+      <Name>MainCharacter\PowerMoves\FireBallM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\FireBallM.xnb</Output>
+      <Time>2009-10-24T20:11:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\PowerMoves\ShieldM.PNG</Source>
+      <Name>MainCharacter\PowerMoves\ShieldM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\PowerMoves\ShieldM.xnb</Output>
+      <Time>2009-10-24T20:17:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\BehindHit1.PNG</Source>
+      <Name>MainCharacter\BehindHit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\BehindHit1.xnb</Output>
+      <Time>2009-10-24T22:03:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\FrontHit.PNG</Source>
+      <Name>MainCharacter\FrontHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\FrontHit.xnb</Output>
+      <Time>2009-10-24T22:03:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Jump.PNG</Source>
+      <Name>MainCharacter\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Jump.xnb</Output>
+      <Time>2009-10-24T22:48:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\BlindGiant\Running.PNG</Source>
+      <Name>Enemies\BlindGiant\Running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Running.xnb</Output>
+      <Time>2009-10-27T17:36:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\BlindGiant\HitWall.PNG</Source>
+      <Name>Enemies\BlindGiant\HitWall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\HitWall.xnb</Output>
+      <Time>2009-10-27T20:24:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\BlindGiant\TakeHit.PNG</Source>
+      <Name>Enemies\BlindGiant\TakeHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\TakeHit.xnb</Output>
+      <Time>2009-10-29T18:23:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\Welcome.png</Source>
+      <Name>Menu\Helpscreens\Welcome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\Welcome.xnb</Output>
+      <Time>2010-02-13T15:06:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\BlindGiant\Dying.PNG</Source>
+      <Name>Enemies\BlindGiant\Dying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\BlindGiant\Dying.xnb</Output>
+      <Time>2009-11-09T17:45:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\DiveRoll.PNG</Source>
+      <Name>MainCharacter\DiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DiveRoll.xnb</Output>
+      <Time>2009-11-11T20:42:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Stats\Health.JPG</Source>
+      <Name>MainCharacter\Stats\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Health.xnb</Output>
+      <Time>2009-11-14T22:13:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Stats\Power.JPG</Source>
+      <Name>MainCharacter\Stats\Power</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\Power.xnb</Output>
+      <Time>2009-11-14T22:13:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Death.PNG</Source>
+      <Name>MainCharacter\Death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Death.xnb</Output>
+      <Time>2009-11-15T16:30:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\ReplayButton.png</Source>
+      <Name>Menu\ReplayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\ReplayButton.xnb</Output>
+      <Time>2010-01-09T11:04:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Lives.png</Source>
+      <Name>Menu\Lives</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Lives.xnb</Output>
+      <Time>2009-11-15T17:50:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\StandMove.PNG</Source>
+      <Name>Enemies\RocketLauncher\StandMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\StandMove.xnb</Output>
+      <Time>2009-11-16T18:45:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\Launch.PNG</Source>
+      <Name>Enemies\RocketLauncher\Launch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Launch.xnb</Output>
+      <Time>2009-11-22T14:19:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\Rocket.png</Source>
+      <Name>Enemies\RocketLauncher\Rocket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Rocket.xnb</Output>
+      <Time>2009-11-22T16:53:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Stats\PowerBack.PNG</Source>
+      <Name>MainCharacter\Stats\PowerBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\PowerBack.xnb</Output>
+      <Time>2009-11-27T22:48:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Stats\HealthBack.PNG</Source>
+      <Name>MainCharacter\Stats\HealthBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Stats\HealthBack.xnb</Output>
+      <Time>2009-11-27T22:48:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\DieBack.PNG</Source>
+      <Name>Enemies\RocketLauncher\DieBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieBack.xnb</Output>
+      <Time>2009-11-28T16:05:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\DieForward.PNG</Source>
+      <Name>Enemies\RocketLauncher\DieForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\DieForward.xnb</Output>
+      <Time>2009-11-28T16:05:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\Explosion.PNG</Source>
+      <Name>Enemies\RocketLauncher\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Explosion.xnb</Output>
+      <Time>2009-11-28T17:02:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\StandMove.png</Source>
+      <Name>Enemies\Mage\StandMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\StandMove.xnb</Output>
+      <Time>2009-12-06T18:28:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\CastBall.png</Source>
+      <Name>Enemies\Mage\CastBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\CastBall.xnb</Output>
+      <Time>2009-12-07T18:59:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\Ball.PNG</Source>
+      <Name>Enemies\Mage\Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Ball.xnb</Output>
+      <Time>2009-12-11T20:27:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powers\Shield.png</Source>
+      <Name>Powers\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\Shield.xnb</Output>
+      <Time>2009-12-14T19:56:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\Shield.png</Source>
+      <Name>Enemies\Mage\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Shield.xnb</Output>
+      <Time>2009-12-16T19:33:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\ShieldM.PNG</Source>
+      <Name>Enemies\Mage\ShieldM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\ShieldM.xnb</Output>
+      <Time>2009-12-16T21:59:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level8.png</Source>
+      <Name>Menu\Level's\Level8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level8.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level10.png</Source>
+      <Name>Menu\Level's\Level10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level10.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level9.png</Source>
+      <Name>Menu\Level's\Level9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level9.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level11.png</Source>
+      <Name>Menu\Level's\Level11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level11.xnb</Output>
+      <Time>2010-01-03T18:28:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powers\GoldDust.png</Source>
+      <Name>Powers\GoldDust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\GoldDust.xnb</Output>
+      <Time>2009-12-20T14:55:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Powers\PowerBall.PNG</Source>
+      <Name>Powers\PowerBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powers\PowerBall.xnb</Output>
+      <Time>2009-12-20T21:30:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Mage\Blast.png</Source>
+      <Name>Enemies\Mage\Blast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Mage\Blast.xnb</Output>
+      <Time>2009-12-21T17:43:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\StandMove.png</Source>
+      <Name>Enemies\IceMage\StandMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\StandMove.xnb</Output>
+      <Time>2009-12-22T20:31:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\CastBall.png</Source>
+      <Name>Enemies\IceMage\CastBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\CastBall.xnb</Output>
+      <Time>2009-12-22T21:02:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\Ball.png</Source>
+      <Name>Enemies\IceMage\Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Ball.xnb</Output>
+      <Time>2009-12-22T21:25:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\Shield.png</Source>
+      <Name>Enemies\IceMage\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Shield.xnb</Output>
+      <Time>2009-12-23T13:07:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\ShieldM.png</Source>
+      <Name>Enemies\IceMage\ShieldM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\ShieldM.xnb</Output>
+      <Time>2009-12-25T13:57:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\IceMage\Blast.png</Source>
+      <Name>Enemies\IceMage\Blast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\IceMage\Blast.xnb</Output>
+      <Time>2009-12-26T12:42:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level12.png</Source>
+      <Name>Menu\Level's\Level12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level12.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level13.png</Source>
+      <Name>Menu\Level's\Level13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level13.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level14.png</Source>
+      <Name>Menu\Level's\Level14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level14.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level15.png</Source>
+      <Name>Menu\Level's\Level15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level15.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level16.png</Source>
+      <Name>Menu\Level's\Level16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level16.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level17.png</Source>
+      <Name>Menu\Level's\Level17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level17.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level18.png</Source>
+      <Name>Menu\Level's\Level18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level18.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level19.png</Source>
+      <Name>Menu\Level's\Level19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level19.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level20.png</Source>
+      <Name>Menu\Level's\Level20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level20.xnb</Output>
+      <Time>2010-01-03T18:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level21.png</Source>
+      <Name>Menu\Level's\Level21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level21.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner1\StandMoveLR.png</Source>
+      <Name>Enemies\Gunner1\StandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\StandMoveLR.xnb</Output>
+      <Time>2009-12-28T12:08:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner1\Arms.png</Source>
+      <Name>Enemies\Gunner1\Arms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Arms.xnb</Output>
+      <Time>2009-12-28T14:53:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner1\TakeHit.PNG</Source>
+      <Name>Enemies\Gunner1\TakeHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\TakeHit.xnb</Output>
+      <Time>2010-01-01T15:35:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner2\Arms.png</Source>
+      <Name>Enemies\Gunner2\Arms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\Arms.xnb</Output>
+      <Time>2010-01-01T16:03:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner2\StandMoveLR.png</Source>
+      <Name>Enemies\Gunner2\StandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\StandMoveLR.xnb</Output>
+      <Time>2010-01-01T16:03:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner2\TakeHit.png</Source>
+      <Name>Enemies\Gunner2\TakeHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner2\TakeHit.xnb</Output>
+      <Time>2010-01-01T16:03:36+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level22.png</Source>
+      <Name>Menu\Level's\Level22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level22.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level23.png</Source>
+      <Name>Menu\Level's\Level23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level23.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level24.png</Source>
+      <Name>Menu\Level's\Level24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level24.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level25.png</Source>
+      <Name>Menu\Level's\Level25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level25.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level26.png</Source>
+      <Name>Menu\Level's\Level26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level26.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level27.png</Source>
+      <Name>Menu\Level's\Level27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level27.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level28.png</Source>
+      <Name>Menu\Level's\Level28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level28.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level29.png</Source>
+      <Name>Menu\Level's\Level29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level29.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level30.png</Source>
+      <Name>Menu\Level's\Level30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level30.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level31.png</Source>
+      <Name>Menu\Level's\Level31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level31.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level32.png</Source>
+      <Name>Menu\Level's\Level32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level32.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level33.png</Source>
+      <Name>Menu\Level's\Level33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level33.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level34.png</Source>
+      <Name>Menu\Level's\Level34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level34.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level35.png</Source>
+      <Name>Menu\Level's\Level35</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level35.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level36.png</Source>
+      <Name>Menu\Level's\Level36</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level36.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level37.png</Source>
+      <Name>Menu\Level's\Level37</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level37.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level38.png</Source>
+      <Name>Menu\Level's\Level38</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level38.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level39.png</Source>
+      <Name>Menu\Level's\Level39</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level39.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level40.png</Source>
+      <Name>Menu\Level's\Level40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level40.xnb</Output>
+      <Time>2010-01-03T18:28:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\LoadButton.png</Source>
+      <Name>Menu\LoadButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\LoadButton.xnb</Output>
+      <Time>2010-01-09T11:04:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Objects\HandGun.PNG</Source>
+      <Name>Enemies\Objects\HandGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\HandGun.xnb</Output>
+      <Time>2010-02-12T12:56:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GJump.PNG</Source>
+      <Name>MainCharacter\GJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GJump.xnb</Output>
+      <Time>2010-02-12T22:23:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GStandMoveLR.PNG</Source>
+      <Name>MainCharacter\GStandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GStandMoveLR.xnb</Output>
+      <Time>2010-02-12T21:28:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GDiveRoll.PNG</Source>
+      <Name>MainCharacter\GDiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDiveRoll.xnb</Output>
+      <Time>2010-02-12T21:05:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\Sights.PNG</Source>
+      <Name>MainCharacter\Sights</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\Sights.xnb</Output>
+      <Time>2010-02-12T22:50:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Gunner1\Bullet.png</Source>
+      <Name>Enemies\Gunner1\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Gunner1\Bullet.xnb</Output>
+      <Time>2010-02-13T08:45:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GBehindHit1.PNG</Source>
+      <Name>MainCharacter\GBehindHit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GBehindHit1.xnb</Output>
+      <Time>2010-02-13T10:15:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GFrontHit.PNG</Source>
+      <Name>MainCharacter\GFrontHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GFrontHit.xnb</Output>
+      <Time>2010-02-13T10:15:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\FireBallmes.png</Source>
+      <Name>Menu\Helpscreens\FireBallmes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireBallmes.xnb</Output>
+      <Time>2010-02-13T15:06:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\FireWallmes.png</Source>
+      <Name>Menu\Helpscreens\FireWallmes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\FireWallmes.xnb</Output>
+      <Time>2010-02-13T15:06:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\PowBallmes.png</Source>
+      <Name>Menu\Helpscreens\PowBallmes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\PowBallmes.xnb</Output>
+      <Time>2010-02-13T15:06:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Helpscreens\GunnerModemes.png</Source>
+      <Name>Menu\Helpscreens\GunnerModemes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Helpscreens\GunnerModemes.xnb</Output>
+      <Time>2010-02-13T19:10:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\GDeath.PNG</Source>
+      <Name>MainCharacter\GDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\GDeath.xnb</Output>
+      <Time>2010-02-14T11:19:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\AKDiveRoll.png</Source>
+      <Name>MainCharacter\AKDiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDiveRoll.xnb</Output>
+      <Time>2010-02-14T22:36:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\AKBehindHit1.png</Source>
+      <Name>MainCharacter\AKBehindHit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKBehindHit1.xnb</Output>
+      <Time>2010-02-14T22:36:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\AKFrontHit.png</Source>
+      <Name>MainCharacter\AKFrontHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKFrontHit.xnb</Output>
+      <Time>2010-02-14T22:36:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\AKDeath.png</Source>
+      <Name>MainCharacter\AKDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\AKDeath.xnb</Output>
+      <Time>2010-02-14T22:36:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Objects\AK47.png</Source>
+      <Name>Enemies\Objects\AK47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\AK47.xnb</Output>
+      <Time>2010-02-14T22:59:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Objects\Launcher.png</Source>
+      <Name>Enemies\Objects\Launcher</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\Launcher.xnb</Output>
+      <Time>2010-02-15T18:39:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\LDeath.png</Source>
+      <Name>MainCharacter\LDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDeath.xnb</Output>
+      <Time>2010-02-16T13:54:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\LDiveRoll.png</Source>
+      <Name>MainCharacter\LDiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LDiveRoll.xnb</Output>
+      <Time>2010-02-16T13:54:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\LBehindHit1.png</Source>
+      <Name>MainCharacter\LBehindHit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LBehindHit1.xnb</Output>
+      <Time>2010-02-16T13:54:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\LFrontHit.png</Source>
+      <Name>MainCharacter\LFrontHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\LFrontHit.xnb</Output>
+      <Time>2010-02-16T13:54:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\RocketLauncher\Arms.png</Source>
+      <Name>Enemies\RocketLauncher\Arms</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\RocketLauncher\Arms.xnb</Output>
+      <Time>2010-02-16T16:58:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Objects\MageHat.PNG</Source>
+      <Name>Enemies\Objects\MageHat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\MageHat.xnb</Output>
+      <Time>2010-02-27T10:24:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\MDiveRoll.png</Source>
+      <Name>MainCharacter\MDiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDiveRoll.xnb</Output>
+      <Time>2010-02-27T20:52:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\MJump.png</Source>
+      <Name>MainCharacter\MJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MJump.xnb</Output>
+      <Time>2010-02-27T19:14:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\MDeath.png</Source>
+      <Name>MainCharacter\MDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MDeath.xnb</Output>
+      <Time>2010-02-27T11:02:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\MStandMoveLR.png</Source>
+      <Name>MainCharacter\MStandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\MStandMoveLR.xnb</Output>
+      <Time>2010-02-27T13:56:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Objects\IceMageHat.PNG</Source>
+      <Name>Enemies\Objects\IceMageHat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Enemies\Objects\IceMageHat.xnb</Output>
+      <Time>2010-03-20T23:04:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\IMDeath.png</Source>
+      <Name>MainCharacter\IMDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDeath.xnb</Output>
+      <Time>2010-03-20T23:04:40+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\IMDiveRoll.png</Source>
+      <Name>MainCharacter\IMDiveRoll</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMDiveRoll.xnb</Output>
+      <Time>2010-06-09T15:39:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\IMJump.png</Source>
+      <Name>MainCharacter\IMJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMJump.xnb</Output>
+      <Time>2010-03-20T23:05:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\IMStandMoveLR.png</Source>
+      <Name>MainCharacter\IMStandMoveLR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\IMStandMoveLR.xnb</Output>
+      <Time>2010-03-20T23:05:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\SaveButton.png</Source>
+      <Name>Menu\SaveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\SaveButton.xnb</Output>
+      <Time>2010-04-13T22:31:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Balloon.png</Source>
+      <Name>Powerups\Balloon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Balloon.xnb</Output>
+      <Time>2010-04-15T14:46:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Crate.png</Source>
+      <Name>Powerups\Crate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Powerups\Crate.xnb</Output>
+      <Time>2010-04-15T14:46:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>MainCharacter\DeflectionMove.PNG</Source>
+      <Name>MainCharacter\DeflectionMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\MainCharacter\DeflectionMove.xnb</Output>
+      <Time>2010-06-09T16:24:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level41.png</Source>
+      <Name>Menu\Level's\Level41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level41.xnb</Output>
+      <Time>2012-03-06T15:28:52.3279286+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Level's\Level42.png</Source>
+      <Name>Menu\Level's\Level42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\Menu\Level's\Level42.xnb</Output>
+      <Time>2012-03-06T15:31:04.9965168+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2012-03-04T21:06:30.5185573+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SamAmco\Google Drive\Visual Studio 2010\Projects\Battle Floor\Battle Floor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-08T17:52:06.4275871+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battle Floor", "Battle Floor\Battle Floor.csproj", "{3CDE0F18-F281-4224-AEEA-CD8673215AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDE0F18-F281-4224-AEEA-CD8673215AEA}.Debug|x86.ActiveCfg = Debug|x86
+		{3CDE0F18-F281-4224-AEEA-CD8673215AEA}.Debug|x86.Build.0 = Debug|x86
+		{3CDE0F18-F281-4224-AEEA-CD8673215AEA}.Release|x86.ActiveCfg = Release|x86
+		{3CDE0F18-F281-4224-AEEA-CD8673215AEA}.Release|x86.Build.0 = Release|x86
+		{BCE66B91-2BC4-4D2E-8100-FD0E23D70F60}.Debug|x86.ActiveCfg = Debug|x86
+		{BCE66B91-2BC4-4D2E-8100-FD0E23D70F60}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
